@@ -8,6 +8,8 @@ Structural Requirements
   * Secondary Utility "Garage"
   * Solar System
   * Battery Backup Power
+  * Seperate Workshop
+  * 
 
 Land Requirements
   * 3+ Acres
@@ -15,4 +17,8 @@ Land Requirements
   * Fiber
   * Well Water
   * Septic?
-  * 
+
+Technological Requirements
+  * Conduit to Various House Locations
+  * Dedicated Server Room
+  *  
