@@ -5,15 +5,20 @@ Structural Requirements
   * Barndominium Style
   * Metal Structure
   * 9+ ft Ceilings
-  * 3+ Car Garage
     - Air-conditioned
   * Secondary Utility "Garage"
   * Solar System
+    - Standalone
+    - Handles min 85% of max energy usage
+    - DIY?
   * Battery Backup Power
+    - Handles min 85% of min energy usage
+    - DIY?
   * Seperate Workshop
+    - Air-conditioned
   * Central Vacuum System?
   * Efficient House (Air Tight)
-    - Spray Foam Insulation
+    - Spray Foam Insulation?
     - Fresh Air Intake
     - Incapsulated Attic
     - Triple-ply Windows
@@ -25,21 +30,26 @@ Land Requirements
   * Fiber Internet
   * Well Water
   * Septic?
+  * Green House
 
 Layout Requirements
   * Mudroom
   * Isolated Laundry Room
   * Wrap Around Porch
   * Game/Theather Room
+  * Single Story?
  
 Technological Requirements
   * Conduit to Various House Locations
+    - Dedicated Run to Server Room
   * Dedicated Server Room
+    - Ventilated
   * Wired Fiber/Ethernet to Each Room
   * In-Ceiling Speakers
   * POE Camera (Indoor/Outdoor)
   * APs Throughout House
-  * Smart (Light & Fan) Switches
+  * Smart Non-WiFi(Light & Fan) Switches
+    - Matter?
 
 Kitchen Requirements
   * Hidden Walk-in Pantry
@@ -55,3 +65,7 @@ Bathroom Requirements
 
 Garage Requirements
   * Car Charging Plug
+  * Epoxy Flooring
+  * Car Lift?
+  * 3+ Car Capacity
+  * Attached
