@@ -1,7 +1,7 @@
 # house
 This contains a comprehensive list of all aspects of the ideal custom home
 
-Structural Requirements
+Infrastructure Requirements
   * Barndominium Style
   * Metal Structure
   * 9+ ft Ceilings
@@ -18,11 +18,17 @@ Structural Requirements
     - Air-conditioned
   * Central Vacuum System?
   * Efficient House (Air Tight)
-    - Spray Foam Insulation?
-    - Fresh Air Intake
-    - Incapsulated Attic
+    - Zip System
+      - Fresh Air Intake
+      - Incapsulated Attic
+    - Poly-Iso Foam
+      - Double Ply on Roof
+      - Single Ply on Wall
+    - Rockwool Batt on Interior
     - Triple-ply Windows
   * Fireplace
+  * Whole House Filtration
+
 
 Land Requirements
   * 3+ Acres
