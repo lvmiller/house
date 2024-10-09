@@ -3,7 +3,8 @@ This contains a comprehensive list of all aspects of the ideal custom home
 
 Infrastructure Requirements
   * Barndominium Style
-  * Metal Structure
+  * Wood or Metal Structure?
+  * Metal Roof
   * 9+ ft Ceilings
     - Air-conditioned
   * Secondary Utility "Garage"
@@ -27,8 +28,7 @@ Infrastructure Requirements
     - Rockwool Batt on Interior
     - Triple-ply Windows
   * Fireplace
-  * Whole House Filtration
-
+  * Whole House Water Filtration
 
 Land Requirements
   * 3+ Acres
